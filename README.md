@@ -133,3 +133,5 @@ void loop()
   }
 }
 ```
+### Servidor Web en el navegador
+<img src="https://github.com/IDiegoUlises/Esp32-Web-Server/blob/main/Images/Web.png" width="800" height="400" />
