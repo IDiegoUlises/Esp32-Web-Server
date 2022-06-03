@@ -133,6 +133,9 @@ void loop()
   }
 }
 ```
+
+* Apaga y prende el led incoporado en el Esp32 mediante internet
+
 ### Direccion del enlace de la pagina
 <img src="https://github.com/IDiegoUlises/Esp32-Web-Server/blob/main/Images/Direccion.png" />
 
