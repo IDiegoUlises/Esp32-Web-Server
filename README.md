@@ -6,8 +6,8 @@
 //Iniciamos servidor web en el puerto 80
 WiFiServer server(80);
 
-const char* ssid     = "Wifi hogar";
-const char* password = "panconpalta";
+const char* ssid     = "ssid";
+const char* password = "password";
 
 int conexion = 0; //guarda el tiempo de conexion
 String header; // variable para guardar el HTTP request
